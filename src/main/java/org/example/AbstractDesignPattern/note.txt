@@ -1,0 +1,4 @@
+In factory design pattern we need to create new class(Factory Class) and based on the parameters,
+we need to create the objects.
+
+It encourages loose coupling, more robust code.
