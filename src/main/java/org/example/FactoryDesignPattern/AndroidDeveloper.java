@@ -1,4 +1,4 @@
-package org.example.AbstractDesignPattern;
+package org.example.FactoryDesignPattern;
 
 public class AndroidDeveloper implements Employee{
     @Override

@@ -1,4 +1,4 @@
-package org.example.AbstractDesignPattern;
+package org.example.FactoryDesignPattern;
 
 //this class is responsible for creating classes
 public class EmployeeFactory {
