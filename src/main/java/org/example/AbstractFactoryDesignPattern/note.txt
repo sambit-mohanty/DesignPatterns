@@ -1,0 +1,3 @@
+Here factory doesn't have idea which object it'll create which was not in case of Factory design pattern.
+
+It encourages loose coupling, more robust code.
